@@ -1,0 +1,437 @@
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CopyComplete
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\stdole.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\source\repos\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\EnvDTE.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\stdole.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.MSXML.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbprojResolveAssemblyReference.cache
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.cache
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CoreCompileInputs.cache
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CopyComplete
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\bin\Debug\adodb.dll
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.CadatsroUsuario.resources
+C:\Users\aln_j\Downloads\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frmEsqueceuSenha.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\adodb.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\EnvDTE.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\stdole.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.MSXML.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbprojResolveAssemblyReference.cache
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.CadastroBens.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.CadatsroUsuario.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frmEsqueceuSenha.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.cache
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CoreCompileInputs.cache
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CopyComplete
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\aln_j\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Conta.resources
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\adodb.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\stdole.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbprojAssemblyReference.cache
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CopyComplete
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\Gabriel\Documents\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\adodb.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\EnvDTE.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\Microsoft.MSXML.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.Cache
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.vbproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\migue\Desktop\sistemaContabil\sistemaContabil\bin\Debug\sistemaContabil.mdb
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\sistemaContabil.exe.config
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.exe
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.xml
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.pdb
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\sistemaContabil.mdb
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\sistemaContabil.exe
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\sistemaContabil.pdb
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\sistemaContabil.xml
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.vbprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.vbproj.sistemaContabil.exe.config
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.frm_login.resources
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.frm_menu.resources
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.Resources.resources
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\sistemaContabil.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\RdlCompile.cache
+C:\Users\aluno\Desktop\sistemaContabil - Copia\sistemaContabil\obj\Debug\RdlCompile.compiled
